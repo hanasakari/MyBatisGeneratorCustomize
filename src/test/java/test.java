@@ -1,7 +1,7 @@
 import java.io.File;
 
 /**
- * Created by Jamci on 2/10/2018.
+ * Created by asuka on 2/10/2018.
  */
 public class test{
     public static void main(String[] args) {
