@@ -71,5 +71,4 @@ public abstract class BaseService<T, E, PK extends Serializable> implements Base
     public int updateByExample(@Param("record") T record, @Param("example") E example) {
         return getBaseMapper().updateByExample(record, example);
     }
-
 }
