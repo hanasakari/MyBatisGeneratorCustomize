@@ -6,9 +6,7 @@ import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
 /**
- *
  * @author wangmengjun
- *
  */
 public interface BaseMapper<T, E, PK extends Serializable> {
 
